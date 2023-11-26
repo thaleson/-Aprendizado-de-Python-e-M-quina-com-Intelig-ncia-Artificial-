@@ -1,0 +1,50 @@
+{
+    "editor.cursorStyle": "underline",
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+
+    "workbench.colorCustomizations": {
+        "terminal.background": "#1E1E1E",
+        "terminal.foreground": "#CCCCCC",
+        "terminalCursor.background": "#CCCCCC",
+        "terminalCursor.foreground": "#1E1E1E",
+        "terminal.ansiBlack": "#000000",
+        "terminal.ansiBlue": "#0000FF",
+        "terminal.ansiGreen": "#00FF00",
+        "terminal.ansiYellow": "#FFFF00",
+        "terminal.ansiRed": "#FF0000",
+        "terminal.ansiCyan": "#00FFFF",
+        "terminal.ansiWhite": "#FFFFFF",
+        "terminal.ansiBlackBright": "#666666",
+        "terminal.ansiBlueBright": "#6666FF",
+        "terminal.ansiGreenBright": "#66FF66",
+        "terminal.ansiYellowBright": "#FFFF66",
+        "terminal.ansiRedBright": "#FF6666",
+        "terminal.ansiCyanBright": "#66FFFF",
+        "terminal.ansiWhiteBright": "#CCCCCC"
+    },
+
+    "terminal.ansiBlack": "#111111",         // Modificar cor do texto preto
+    "terminal.ansiBlue": "#0000AA",          // Modificar cor do texto azul
+    "terminal.ansiGreen": "#00AA00",         // Modificar cor do texto verde
+    "terminal.ansiYellow": "#AAAA00",        // Modificar cor do texto amarelo
+    "terminal.ansiRed": "#AA0000",           // Modificar cor do texto vermelho
+    "terminal.ansiCyan": "#00AAAA",          // Modificar cor do texto ciano
+    "terminal.ansiWhite": "#AAAAAA",         // Modificar cor do texto branco
+    "terminal.ansiBlackBright": "#555555",   // Modificar cor do texto preto brilhante
+    "terminal.ansiBlueBright": "#5555FF",    // Modificar cor do texto azul brilhante
+    "terminal.ansiGreenBright": "#55FF55",   // Modificar cor do texto verde brilhante
+    "terminal.ansiYellowBright": "#FFFF55",  // Modificar cor do texto amarelo brilhante
+    "terminal.ansiRedBright": "#FF5555",     // Modificar cor do texto vermelho brilhante
+    "terminal.ansiCyanBright": "#55FFFF",    // Modificar cor do texto ciano brilhante
+    "terminal.ansiWhiteBright": "#FFFFFF",
+    "terminal.integrated.tabs.defaultColor": "terminal.ansiBlue",
+    "editor.fontSize": 15,
+    "python.analysis.extraPaths": [
+        "./objeto"
+    ],
+    "python.autoComplete.extraPaths": [
+    
+    ] // Modificar cor do texto branco brilhante
+}
+
