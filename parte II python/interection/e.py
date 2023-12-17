@@ -20,6 +20,9 @@ class MinhaLista:
            return item
         except IndexError:
             raise StopIteration
+        
+    def remove(self,valor):
+        return  self._itemns.remove(valor)
     
 
     def __str__(self) :
@@ -31,6 +34,7 @@ if __name__ == "__main__":
     lista.add('alice')
     lista.add('aracy')
     lista.add('josi')
+    lista.remove('josi')
 
     for i in lista :
       print(i)

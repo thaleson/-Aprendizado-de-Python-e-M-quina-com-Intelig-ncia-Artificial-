@@ -17,6 +17,7 @@ print(f"a prestação sera :{prestação}R$ reais  ")
 
 time.sleep(2)
 print("Processando....")
+
 if prestação <= minimo:
     print("emprestimo aprovado")
 else:

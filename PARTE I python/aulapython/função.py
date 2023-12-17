@@ -9,16 +9,17 @@ print(list(novalista))
 for produtos in produtos:
     print(produtos)
 
-    def aumeta_preco(p):
+#aumenta preço dos produtos 
+def aumeta_preco(p):
         p['preco'] = round(p['preco']*1.05)
         return p 
 
-    produtos_novos=list(map(aumeta_preco,produtos))
+produtos_novos=list(map(aumeta_preco,produtos))
 
-    for produtos in produtos_novos:
+for produtos in produtos_novos:
         print(produtos) 
 
-
+#nova idade
 
 def filte_preco(pessoas):
      pessoas["idade"]=round(pessoas["idade"]*2)

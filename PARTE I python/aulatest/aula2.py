@@ -16,10 +16,10 @@ var2=mestre(saudação,"thaleson" , saudação="boa noite")
 print(var)
 print(var2)
 
-# nome = "alice thaleson"  # Substitua "SeuNome" pelo seu nome.
+nome = "alice thaleson"  # Substitua "SeuNome" pelo seu nome.
 
-# for alice in range(10):
-#     print(nome)
+for alice in range(10):
+    print(nome)
 
    
 

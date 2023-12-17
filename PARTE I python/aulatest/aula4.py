@@ -1,8 +1,8 @@
-# nome= ['Alice','Aracy','Josi']
+nome= ['Alice','Aracy','Josi']
 
-# ex=[v.replace('A','T') for v in nome]
+ex=[v.replace('A','T') for v in nome]
 
-# print(ex)
+print(ex)
 
 
 
